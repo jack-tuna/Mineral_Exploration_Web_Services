@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Mineral_Exploration_Web_Services" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
