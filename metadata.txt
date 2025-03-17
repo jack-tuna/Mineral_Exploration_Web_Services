@@ -6,7 +6,7 @@
 name=Mineral Exploration Web Services
 qgisMinimumVersion=3.0
 description=This plugin connects your QGIS User Profile to many openly hosted web services related to mineral exploration. These include Country and State geological surveys that provide mapped geology and data such as mineral occurence locations, geophysics, geochemistry etc.
-version=0.1
+version=0.2
 author=Jack Maughan
 email=jack_maughan@hotmail.com
 
@@ -20,7 +20,7 @@ repository=http://repo
 
 hasProcessingProvider=no
 # Uncomment the following line and add your changelog:
-# changelog=
+changelog=Removed unconnected services and updated a table with all services
 
 # Tags are comma separated with spaces allowed
 tags=python
